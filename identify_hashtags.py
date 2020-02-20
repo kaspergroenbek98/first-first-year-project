@@ -1,4 +1,4 @@
-def identify_hashtags(data)	
+def identify_hashtags(data):	
 	col = np.zeros((data.shape[0],1), 'str')
 	data = np.append(data, col, axis=1)
 	print(data.shape) # Note that shape starts at 1 and ends at 16, so the interval is [0:15]
