@@ -1,0 +1,892 @@
+commit b3130c370f7d1c3570ce73bf12260dd415f52de7 (HEAD -> master, origin/master, origin/HEAD)
+Author: csom7 <61190144+csom7@users.noreply.github.com>
+Date:   Thu Feb 27 16:09:56 2020 +0100
+
+    Created using Colaboratory
+
+commit d5af7230b98065b4ee99543b8f9baa05e3d87393
+Author: Machholm <55635518+Machholm@users.noreply.github.com>
+Date:   Thu Feb 27 14:16:24 2020 +0100
+
+    Created using Colaboratory
+
+commit c40c52826e47267ec0dc791c1cd4cb6ef93b1977
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Thu Feb 27 14:05:41 2020 +0100
+
+    Created using Colaboratory
+
+commit ed577ade3b7d1b9c0f5ac2bfbdc60a8d983a17e9
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Thu Feb 27 13:40:12 2020 +0100
+
+    Title on CMatrix
+
+commit bcab8f3778d439e6d8cdf3b46bc9531c5cf3ea0b
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Thu Feb 27 13:29:17 2020 +0100
+
+    Created using Colaboratory
+
+commit 52b25d5f47f9adbd47650fb8a6a79c58bf7f0124
+Author: Kasper Grønbek <47602813+kaspergroenbek98@users.noreply.github.com>
+Date:   Thu Feb 27 11:26:40 2020 +0100
+
+    Joint effort to clean up the notebook
+
+commit 09bcf80f9fcba89140cfd8d3c1cd84c8446d710f
+Author: csom7 <61190144+csom7@users.noreply.github.com>
+Date:   Thu Feb 27 11:05:03 2020 +0100
+
+    Created using Colaboratory
+
+commit 64bf55e7984e59ca542d1fb87858b475305b1bd6
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Thu Feb 27 10:49:36 2020 +0100
+
+    Now with right y-axis
+
+commit 67755c9f33a04430069b0ba199dd31d01a9597aa
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Thu Feb 27 10:45:40 2020 +0100
+
+    Now with bigrams
+
+commit 4c621d1a17273214c2974109da7c80464adfd5c2
+Author: csom7 <61190144+csom7@users.noreply.github.com>
+Date:   Thu Feb 27 08:35:30 2020 +0100
+
+    Created using Colaboratory
+
+commit d6acb359afc4caa473456115655072962895b49b
+Author: csom7 <61190144+csom7@users.noreply.github.com>
+Date:   Tue Feb 25 21:14:29 2020 +0100
+
+    Created using Colaboratory
+
+commit fda89cc9f855c164d69ea1bb50a4f8b5813c49fd
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Tue Feb 25 17:21:32 2020 +0100
+
+    Created using Colaboratory
+
+commit ffa97baabab6e5d9bcb3d2694a4767ff4b69aad9
+Author: Machholm <55635518+Machholm@users.noreply.github.com>
+Date:   Tue Feb 25 17:03:15 2020 +0100
+
+    Add files via upload
+
+commit 82d82b492c7f628ccf6877a400b6ce1e99a306be
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Tue Feb 25 17:00:10 2020 +0100
+
+    Created using Colaboratory
+
+commit 9dce95ffe3e34f3b8397581a2fb2ec9f314b8616
+Author: csom7 <61190144+csom7@users.noreply.github.com>
+Date:   Tue Feb 25 16:23:59 2020 +0100
+
+    Created using Colaboratory
+
+commit 63f21331ba24a1f3c1043dc33dfcadf6cbcade3a
+Author: csom7 <61190144+csom7@users.noreply.github.com>
+Date:   Tue Feb 25 16:15:57 2020 +0100
+
+    Created using Colaboratory
+
+commit 37081037ba2e4c24844e8c80e28b90ed77621aec
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Tue Feb 25 15:01:35 2020 +0100
+
+    Created using Colaboratory
+
+commit d32d3450375349462b3f9332268d08b87655e4a7
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Tue Feb 25 14:32:56 2020 +0100
+
+    First draft of completed Notebook
+
+commit 59ffa37920436788a3f15a80fcbdf179e6d846e4
+Author: csom7 <61190144+csom7@users.noreply.github.com>
+Date:   Tue Feb 25 14:29:35 2020 +0100
+
+    Created using Colaboratory
+
+commit 157757a5f1d06c9cef9a31e2e3e72631045dbaad
+Author: Kasper Grønbek <47602813+kaspergroenbek98@users.noreply.github.com>
+Date:   Tue Feb 25 13:35:42 2020 +0100
+
+    Re-added titles for code sections for navigation
+
+commit 4532e6f5ac642697b8cde7a279a23ec81fc8e999
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Tue Feb 25 12:32:15 2020 +0100
+
+    Notebook for class checkin
+
+commit 98bafaae0eed77e8d26c32f04dc960de01bfec05
+Author: Kasper Grønbek <47602813+kaspergroenbek98@users.noreply.github.com>
+Date:   Tue Feb 25 12:31:52 2020 +0100
+
+    Titles added to chaosBook  sections
+
+commit 280c6fef4cee1061a73b531cd89fcad85e855f41
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Tue Feb 25 12:31:16 2020 +0100
+
+    Notebook for presentation 25/02/2020
+
+commit 74cba767cee9d73aa42133c2150ad53c2857c8f6
+Author: Machholm <55635518+Machholm@users.noreply.github.com>
+Date:   Tue Feb 25 12:04:30 2020 +0100
+
+    Add files via upload
+
+commit 3abaefa7fabb7855af1045975ba875b7ba0b75e7
+Author: Machholm <55635518+Machholm@users.noreply.github.com>
+Date:   Tue Feb 25 12:02:32 2020 +0100
+
+    Add files via upload
+
+commit 632b9d8f785443876ab23c838f76346763344d7e
+Author: Kasper Grønbek <kgro@itu.dk>
+Date:   Tue Feb 25 11:14:43 2020 +0100
+
+    Joint effort to make a final clean notebook
+
+commit 20c86b439018205d02a3b2296a5bcee47988e5f5
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Tue Feb 25 10:05:09 2020 +0100
+
+    Updated with SKlearn part
+
+commit b2a26ea4e743ca9636e0260ffab23475a67b1f93
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Tue Feb 25 09:24:48 2020 +0100
+
+    Created using Colaboratory
+
+commit 1e8b30ef7c48a633238d13e76b99595134475069
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Mon Feb 24 23:37:16 2020 +0100
+
+    Created using Colaboratory
+
+commit 22c1b4772b0d848adc8ff076447c60c3a98cf17c
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Mon Feb 24 22:43:50 2020 +0100
+
+    Created using Colaboratory
+
+commit b7a5f92251fea789a2e1f2d4d7d81e9e209949fe
+Author: Kasper Grønbek <47602813+kaspergroenbek98@users.noreply.github.com>
+Date:   Mon Feb 24 22:31:24 2020 +0100
+
+    Minor changes in Kfold section
+
+commit 0918e2633de7e67dd702b7399e5fe74589010571
+Author: Kasper Grønbek <47602813+kaspergroenbek98@users.noreply.github.com>
+Date:   Mon Feb 24 22:25:04 2020 +0100
+
+    Deleted filtering.py as it pose no value at current state
+
+commit fa8669a4c578a371b319583081e9a3b7388817b2
+Author: Kasper Grønbek <47602813+kaspergroenbek98@users.noreply.github.com>
+Date:   Mon Feb 24 22:22:29 2020 +0100
+
+    Commit message for two last commits: Successfully implemented kfold approach, optimized it and commented code.
+
+commit 21a7bc6ec915ee1928cb41b106ee33d2e022cb10
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Mon Feb 24 22:08:52 2020 +0100
+
+    Created using Colaboratory
+
+commit 437cff856a52b9d72cb2c7c4fce2efe4046fecff
+Author: Kasper Grønbek <47602813+kaspergroenbek98@users.noreply.github.com>
+Date:   Mon Feb 24 21:29:54 2020 +0100
+
+    Created drafts for the sklearn model: k-fold
+
+commit f5943c28406345db83a05cbe43d97e3e7d6bd735
+Author: Kasper Grønbek <47602813+kaspergroenbek98@users.noreply.github.com>
+Date:   Mon Feb 24 21:27:46 2020 +0100
+
+    Implemented a k-fold approach as an alternative to the train-/test split
+
+commit 3278e74d7af338874ee820fd885f63ab6526410f
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Mon Feb 24 21:09:14 2020 +0100
+
+    Copy using Pandas for loading
+
+commit db7eccf25229b62838ff3efffdfc2e72de64e4c7
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Mon Feb 24 19:42:10 2020 +0100
+
+    Created using Colaboratory
+
+commit 749ebc0128215964f787c8c49ad13e1a273e9a18
+Author: sarr-itu <60929572+sarr-itu@users.noreply.github.com>
+Date:   Mon Feb 24 12:41:23 2020 +0100
+
+    Delete chaosBookBW.ipynb
+
+commit 0fd67dd34f21553f39f53b5f3c17fe3ff30f928b
+Author: Sarah Ramezanpour <sarahramezanpour@Sarahs-MacBook-Pro-2.local>
+Date:   Mon Feb 24 12:38:08 2020 +0100
+
+    Added bad word implementation to notebook
+
+commit c220b3b06c8472d742ae994f8c4ff1b03e1424c7
+Author: sarr-itu <60929572+sarr-itu@users.noreply.github.com>
+Date:   Sun Feb 23 21:05:35 2020 +0100
+
+    Chaos book with some 'bad word' implementation
+
+commit 559909c93cd55b6e3c203ab3c5b2fdf201ca15f2
+Author: csom7 <61190144+csom7@users.noreply.github.com>
+Date:   Fri Feb 21 19:36:17 2020 +0100
+
+    Created using Colaboratory
+
+commit 263dcacb74c589ad9de99f3a148ba5a89135f5c7
+Author: sarr-itu <60929572+sarr-itu@users.noreply.github.com>
+Date:   Thu Feb 20 21:18:56 2020 +0100
+
+    Dictionary for checking 'seriousness' of tweets.
+
+commit e5afee314adc6636136c609c992afc285b1c223d
+Author: csom7 <61190144+csom7@users.noreply.github.com>
+Date:   Thu Feb 20 16:48:24 2020 +0100
+
+    Added 2 new types of vocabulary for states specifically
+
+commit b57b4be3daa136ddc2f02d49ebfcb4ed17c2ec63
+Author: csom7 <61190144+csom7@users.noreply.github.com>
+Date:   Thu Feb 20 15:07:39 2020 +0100
+
+    Created using Colaboratory
+
+commit 96eb903a854568f108b15c1b0c9da65a873a972e
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Thu Feb 20 13:30:30 2020 +0100
+
+    Sklearn notebook for trying out a different ML model
+
+commit 783512fb8df58852738ea74fe23417767a933f67
+Author: csom7 <61190144+csom7@users.noreply.github.com>
+Date:   Thu Feb 20 13:06:05 2020 +0100
+
+    Created using Colaboratory
+
+commit 71fc5386ff83c1076f63abfa2b78251cbfaf44d9
+Author: Machholm <55635518+Machholm@users.noreply.github.com>
+Date:   Thu Feb 20 12:58:42 2020 +0100
+
+    Add files via upload
+
+commit 832ec4e0c6d591b68ae4d5f28bce5b1ff3eb0f44
+Author: csom7 <csom@itu.dk>
+Date:   Thu Feb 20 12:43:29 2020 +0100
+
+    added a missing colon
+
+commit 4173f00aa54b523d63cc215a59fb9c8a4db92b91
+Author: csom7 <csom@itu.dk>
+Date:   Thu Feb 20 12:28:55 2020 +0100
+
+    made naming convention consistent
+
+commit ffe0282b842d4d7f10095120e5970c58a98b80b7
+Author: sarr-itu <60929572+sarr-itu@users.noreply.github.com>
+Date:   Wed Feb 19 22:40:35 2020 +0100
+
+    Add files via upload
+
+commit fa7e7a5e02bc3a219120ace36f2be816e5236925
+Author: Kasper Grønbek <47602813+kaspergroenbek98@users.noreply.github.com>
+Date:   Wed Feb 19 21:57:46 2020 +0100
+
+    Created word_features2 for bigrams
+
+    Word_features2 is the word features for bigrams.
+
+commit 835482f2ed0ff192a5502bbf44af835fbbe79ad2
+Author: Kasper Grønbek <47602813+kaspergroenbek98@users.noreply.github.com>
+Date:   Wed Feb 19 21:53:05 2020 +0100
+
+    word_features function has been  created
+
+    This function is already in the notebook, but can be drawn from here.
+
+commit 47fbb5ac97c70f5b8e581a2551beb2b9b42597ff
+Author: Kasper Grønbek <47602813+kaspergroenbek98@users.noreply.github.com>
+Date:   Wed Feb 19 21:47:50 2020 +0100
+
+    Made function for filtering
+
+    Function filters out stopwords, non-alphabetic words and stems of words from input data
+    - returns all words and frequency distribution.
+
+commit a7e6932cdbd19c77b31562df6f2e3cb64da4ee04
+Author: Kasper Grønbek <47602813+kaspergroenbek98@users.noreply.github.com>
+Date:   Wed Feb 19 21:39:13 2020 +0100
+
+    Changed to identify hashtag
+
+    A function that identifies hashtags from input data
+
+commit c2fe416340b163874a4379023b1eaffd7126ce94
+Author: csom7 <61190144+csom7@users.noreply.github.com>
+Date:   Wed Feb 19 20:45:18 2020 +0100
+
+    Added hashtags in new col 15
+
+commit f157c07c7a5c90a7f76fb0977f795440931b7a9d
+Author: Kasper Grønbek <kgro@itu.dk>
+Date:   Tue Feb 18 16:12:58 2020 +0100
+
+    Collaborative (whole team) effort to better the Notebook and implement ideas and explanatory comments
+
+commit 7f4fe36a3c71c5556f4b2f318d4dc3b16340acff
+Author: Kasper Grønbek <kgro@itu.dk>
+Date:   Tue Feb 18 15:23:30 2020 +0100
+
+    Updated the way 'stopwords' is addressed in the notebook
+
+commit da59b75a9c611dab6f88a61ffd7d49053302dd48
+Author: csom <csom@itu.dk>
+Date:   Tue Feb 18 15:14:55 2020 +0100
+
+    t
+
+commit 9b7314b691722fcc872f905139fe0ca633109fe6
+Merge: 4d477e7 90d212c
+Author: csom <csom@itu.dk>
+Date:   Tue Feb 18 15:07:20 2020 +0100
+
+    T
+
+commit 90d212cd8a5526b1cf5ec3b29e25b67b14ef49cd
+Author: Kasper Grønbek <47602813+kaspergroenbek98@users.noreply.github.com>
+Date:   Tue Feb 18 15:03:27 2020 +0100
+
+    Created fyplib - added one initial function
+
+    More updates to come
+
+commit 4d477e74c1b645f54f0ebec3d0e6fd69ef076e9e
+Author: csom <csom@itu.dk>
+Date:   Tue Feb 18 15:03:22 2020 +0100
+
+    allowed the book to access data.csv without manual labour
+
+commit 4c80c82592ddc416e08bee4114883bb784c5423f
+Author: Kasper Grønbek <47602813+kaspergroenbek98@users.noreply.github.com>
+Date:   Tue Feb 18 14:46:48 2020 +0100
+
+    Update README.md
+
+commit c90e6eedff43aaca2647b4c181b6fcf884eca8ea
+Author: csom <csom@itu.dk>
+Date:   Tue Feb 18 14:36:50 2020 +0100
+
+    added data file for new year resolutions
+
+commit 573b6ac33891c95e6c5d4fda091d1e2c1f63bed2
+Author: csom <csom@itu.dk>
+Date:   Tue Feb 18 14:31:23 2020 +0100
+
+    Added the first draft of our data analysis
+
+commit 1f22b578e73775db74bdbfa1296f914607e2d3e4
+Author: Kasper Grønbek <47602813+kaspergroenbek98@users.noreply.github.com>
+Date:   Tue Feb 18 14:22:39 2020 +0100
+
+    Initial commit
+...skipping...
+    Collaborative (whole team) effort to better the Notebook and implement ideas and explanatory comments
+
+commit 7f4fe36a3c71c5556f4b2f318d4dc3b16340acff
+Author: Kasper Grønbek <kgro@itu.dk>
+Date:   Tue Feb 18 15:23:30 2020 +0100
+
+    Updated the way 'stopwords' is addressed in the notebook
+
+commit da59b75a9c611dab6f88a61ffd7d49053302dd48
+Author: csom <csom@itu.dk>
+Date:   Tue Feb 18 15:14:55 2020 +0100
+
+    t
+
+commit 9b7314b691722fcc872f905139fe0ca633109fe6
+Merge: 4d477e7 90d212c
+Author: csom <csom@itu.dk>
+Date:   Tue Feb 18 15:07:20 2020 +0100
+
+    T
+
+commit 90d212cd8a5526b1cf5ec3b29e25b67b14ef49cd
+Author: Kasper Grønbek <47602813+kaspergroenbek98@users.noreply.github.com>
+Date:   Tue Feb 18 15:03:27 2020 +0100
+
+    Created fyplib - added one initial function
+
+    More updates to come
+
+commit 4d477e74c1b645f54f0ebec3d0e6fd69ef076e9e
+Author: csom <csom@itu.dk>
+Date:   Tue Feb 18 15:03:22 2020 +0100
+
+    allowed the book to access data.csv without manual labour
+
+commit 4c80c82592ddc416e08bee4114883bb784c5423f
+Author: Kasper Grønbek <47602813+kaspergroenbek98@users.noreply.github.com>
+Date:   Tue Feb 18 14:46:48 2020 +0100
+
+    Update README.md
+
+commit c90e6eedff43aaca2647b4c181b6fcf884eca8ea
+Author: csom <csom@itu.dk>
+Date:   Tue Feb 18 14:36:50 2020 +0100
+
+    added data file for new year resolutions
+
+commit 573b6ac33891c95e6c5d4fda091d1e2c1f63bed2
+Author: csom <csom@itu.dk>
+Date:   Tue Feb 18 14:31:23 2020 +0100
+
+    Added the first draft of our data analysis
+
+commit 1f22b578e73775db74bdbfa1296f914607e2d3e4
+Author: Kasper Grønbek <47602813+kaspergroenbek98@users.noreply.github.com>
+Date:   Tue Feb 18 14:22:39 2020 +0100
+
+    Initial commit
+(base) kaspergroenbek98@DESKTOP-KDQBB2G:/mnt/c/Users/Kasper/desktop/ITU 2. Semester/1st Year Project/first-first-year-project$ git pull
+remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+From https://github.com/kaspergroenbek98/first-first-year-project
+   b3130c3..93c21f3  master     -> origin/master
+Updating b3130c3..93c21f3
+Fast-forward
+ project1notebook.ipynb | 262 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-------------
+ 1 file changed, 226 insertions(+), 36 deletions(-)
+(base) kaspergroenbek98@DESKTOP-KDQBB2G:/mnt/c/Users/Kasper/desktop/ITU 2. Semester/1st Year Project/first-first-year-project$ git log
+commit 93c21f300d581f3c73c8fb5e106269015d67d6ab (HEAD -> master, origin/master, origin/HEAD)
+Author: Machholm <55635518+Machholm@users.noreply.github.com>
+Date:   Thu Feb 27 16:16:55 2020 +0100
+
+    Created using Colaboratory
+
+commit b3130c370f7d1c3570ce73bf12260dd415f52de7
+Author: csom7 <61190144+csom7@users.noreply.github.com>
+Date:   Thu Feb 27 16:09:56 2020 +0100
+
+    Created using Colaboratory
+
+commit d5af7230b98065b4ee99543b8f9baa05e3d87393
+Author: Machholm <55635518+Machholm@users.noreply.github.com>
+Date:   Thu Feb 27 14:16:24 2020 +0100
+
+    Created using Colaboratory
+
+commit c40c52826e47267ec0dc791c1cd4cb6ef93b1977
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Thu Feb 27 14:05:41 2020 +0100
+
+    Created using Colaboratory
+
+commit ed577ade3b7d1b9c0f5ac2bfbdc60a8d983a17e9
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Thu Feb 27 13:40:12 2020 +0100
+
+    Title on CMatrix
+
+commit bcab8f3778d439e6d8cdf3b46bc9531c5cf3ea0b
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Thu Feb 27 13:29:17 2020 +0100
+
+    Created using Colaboratory
+
+commit 52b25d5f47f9adbd47650fb8a6a79c58bf7f0124
+Author: Kasper Grønbek <47602813+kaspergroenbek98@users.noreply.github.com>
+Date:   Thu Feb 27 11:26:40 2020 +0100
+
+    Joint effort to clean up the notebook
+
+commit 09bcf80f9fcba89140cfd8d3c1cd84c8446d710f
+Author: csom7 <61190144+csom7@users.noreply.github.com>
+Date:   Thu Feb 27 11:05:03 2020 +0100
+
+    Created using Colaboratory
+
+commit 64bf55e7984e59ca542d1fb87858b475305b1bd6
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Thu Feb 27 10:49:36 2020 +0100
+
+    Now with right y-axis
+
+commit 67755c9f33a04430069b0ba199dd31d01a9597aa
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Thu Feb 27 10:45:40 2020 +0100
+
+    Now with bigrams
+
+commit 4c621d1a17273214c2974109da7c80464adfd5c2
+Author: csom7 <61190144+csom7@users.noreply.github.com>
+Date:   Thu Feb 27 08:35:30 2020 +0100
+
+    Created using Colaboratory
+
+commit d6acb359afc4caa473456115655072962895b49b
+Author: csom7 <61190144+csom7@users.noreply.github.com>
+Date:   Tue Feb 25 21:14:29 2020 +0100
+
+    Created using Colaboratory
+
+commit fda89cc9f855c164d69ea1bb50a4f8b5813c49fd
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Tue Feb 25 17:21:32 2020 +0100
+
+    Created using Colaboratory
+
+commit ffa97baabab6e5d9bcb3d2694a4767ff4b69aad9
+Author: Machholm <55635518+Machholm@users.noreply.github.com>
+Date:   Tue Feb 25 17:03:15 2020 +0100
+
+    Add files via upload
+
+commit 82d82b492c7f628ccf6877a400b6ce1e99a306be
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Tue Feb 25 17:00:10 2020 +0100
+
+    Created using Colaboratory
+
+commit 9dce95ffe3e34f3b8397581a2fb2ec9f314b8616
+Author: csom7 <61190144+csom7@users.noreply.github.com>
+Date:   Tue Feb 25 16:23:59 2020 +0100
+
+    Created using Colaboratory
+
+commit 63f21331ba24a1f3c1043dc33dfcadf6cbcade3a
+Author: csom7 <61190144+csom7@users.noreply.github.com>
+Date:   Tue Feb 25 16:15:57 2020 +0100
+
+    Created using Colaboratory
+
+commit 37081037ba2e4c24844e8c80e28b90ed77621aec
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Tue Feb 25 15:01:35 2020 +0100
+
+    Created using Colaboratory
+
+commit d32d3450375349462b3f9332268d08b87655e4a7
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Tue Feb 25 14:32:56 2020 +0100
+
+    First draft of completed Notebook
+
+commit 59ffa37920436788a3f15a80fcbdf179e6d846e4
+Author: csom7 <61190144+csom7@users.noreply.github.com>
+Date:   Tue Feb 25 14:29:35 2020 +0100
+
+    Created using Colaboratory
+
+commit 157757a5f1d06c9cef9a31e2e3e72631045dbaad
+Author: Kasper Grønbek <47602813+kaspergroenbek98@users.noreply.github.com>
+Date:   Tue Feb 25 13:35:42 2020 +0100
+
+    Re-added titles for code sections for navigation
+
+commit 4532e6f5ac642697b8cde7a279a23ec81fc8e999
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Tue Feb 25 12:32:15 2020 +0100
+
+    Notebook for class checkin
+
+commit 98bafaae0eed77e8d26c32f04dc960de01bfec05
+Author: Kasper Grønbek <47602813+kaspergroenbek98@users.noreply.github.com>
+Date:   Tue Feb 25 12:31:52 2020 +0100
+
+    Titles added to chaosBook  sections
+
+commit 280c6fef4cee1061a73b531cd89fcad85e855f41
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Tue Feb 25 12:31:16 2020 +0100
+
+    Notebook for presentation 25/02/2020
+
+commit 74cba767cee9d73aa42133c2150ad53c2857c8f6
+Author: Machholm <55635518+Machholm@users.noreply.github.com>
+Date:   Tue Feb 25 12:04:30 2020 +0100
+
+    Add files via upload
+
+commit 3abaefa7fabb7855af1045975ba875b7ba0b75e7
+Author: Machholm <55635518+Machholm@users.noreply.github.com>
+Date:   Tue Feb 25 12:02:32 2020 +0100
+
+    Add files via upload
+
+commit 632b9d8f785443876ab23c838f76346763344d7e
+Author: Kasper Grønbek <kgro@itu.dk>
+Date:   Tue Feb 25 11:14:43 2020 +0100
+
+    Joint effort to make a final clean notebook
+
+commit 20c86b439018205d02a3b2296a5bcee47988e5f5
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Tue Feb 25 10:05:09 2020 +0100
+
+    Updated with SKlearn part
+
+commit b2a26ea4e743ca9636e0260ffab23475a67b1f93
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Tue Feb 25 09:24:48 2020 +0100
+
+    Created using Colaboratory
+
+commit 1e8b30ef7c48a633238d13e76b99595134475069
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Mon Feb 24 23:37:16 2020 +0100
+
+    Created using Colaboratory
+
+commit 22c1b4772b0d848adc8ff076447c60c3a98cf17c
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Mon Feb 24 22:43:50 2020 +0100
+
+    Created using Colaboratory
+
+commit b7a5f92251fea789a2e1f2d4d7d81e9e209949fe
+Author: Kasper Grønbek <47602813+kaspergroenbek98@users.noreply.github.com>
+Date:   Mon Feb 24 22:31:24 2020 +0100
+
+    Minor changes in Kfold section
+
+commit 0918e2633de7e67dd702b7399e5fe74589010571
+Author: Kasper Grønbek <47602813+kaspergroenbek98@users.noreply.github.com>
+Date:   Mon Feb 24 22:25:04 2020 +0100
+
+    Deleted filtering.py as it pose no value at current state
+
+commit fa8669a4c578a371b319583081e9a3b7388817b2
+Author: Kasper Grønbek <47602813+kaspergroenbek98@users.noreply.github.com>
+Date:   Mon Feb 24 22:22:29 2020 +0100
+
+    Commit message for two last commits: Successfully implemented kfold approach, optimized it and commented code.
+
+commit 21a7bc6ec915ee1928cb41b106ee33d2e022cb10
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Mon Feb 24 22:08:52 2020 +0100
+
+    Created using Colaboratory
+
+commit 437cff856a52b9d72cb2c7c4fce2efe4046fecff
+Author: Kasper Grønbek <47602813+kaspergroenbek98@users.noreply.github.com>
+Date:   Mon Feb 24 21:29:54 2020 +0100
+
+    Created drafts for the sklearn model: k-fold
+
+commit f5943c28406345db83a05cbe43d97e3e7d6bd735
+Author: Kasper Grønbek <47602813+kaspergroenbek98@users.noreply.github.com>
+Date:   Mon Feb 24 21:27:46 2020 +0100
+
+    Implemented a k-fold approach as an alternative to the train-/test split
+
+commit 3278e74d7af338874ee820fd885f63ab6526410f
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Mon Feb 24 21:09:14 2020 +0100
+
+    Copy using Pandas for loading
+
+commit db7eccf25229b62838ff3efffdfc2e72de64e4c7
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Mon Feb 24 19:42:10 2020 +0100
+
+    Created using Colaboratory
+
+commit 749ebc0128215964f787c8c49ad13e1a273e9a18
+Author: sarr-itu <60929572+sarr-itu@users.noreply.github.com>
+Date:   Mon Feb 24 12:41:23 2020 +0100
+
+    Delete chaosBookBW.ipynb
+
+commit 0fd67dd34f21553f39f53b5f3c17fe3ff30f928b
+Author: Sarah Ramezanpour <sarahramezanpour@Sarahs-MacBook-Pro-2.local>
+Date:   Mon Feb 24 12:38:08 2020 +0100
+
+    Added bad word implementation to notebook
+
+commit c220b3b06c8472d742ae994f8c4ff1b03e1424c7
+Author: sarr-itu <60929572+sarr-itu@users.noreply.github.com>
+Date:   Sun Feb 23 21:05:35 2020 +0100
+
+    Chaos book with some 'bad word' implementation
+
+commit 559909c93cd55b6e3c203ab3c5b2fdf201ca15f2
+Author: csom7 <61190144+csom7@users.noreply.github.com>
+Date:   Fri Feb 21 19:36:17 2020 +0100
+
+    Created using Colaboratory
+
+commit 263dcacb74c589ad9de99f3a148ba5a89135f5c7
+Author: sarr-itu <60929572+sarr-itu@users.noreply.github.com>
+Date:   Thu Feb 20 21:18:56 2020 +0100
+
+    Dictionary for checking 'seriousness' of tweets.
+
+commit e5afee314adc6636136c609c992afc285b1c223d
+Author: csom7 <61190144+csom7@users.noreply.github.com>
+Date:   Thu Feb 20 16:48:24 2020 +0100
+
+    Added 2 new types of vocabulary for states specifically
+
+commit b57b4be3daa136ddc2f02d49ebfcb4ed17c2ec63
+Author: csom7 <61190144+csom7@users.noreply.github.com>
+Date:   Thu Feb 20 15:07:39 2020 +0100
+
+    Created using Colaboratory
+
+commit 96eb903a854568f108b15c1b0c9da65a873a972e
+Author: GustavBakhauge <61193388+GustavBakhauge@users.noreply.github.com>
+Date:   Thu Feb 20 13:30:30 2020 +0100
+
+    Sklearn notebook for trying out a different ML model
+
+commit 783512fb8df58852738ea74fe23417767a933f67
+Author: csom7 <61190144+csom7@users.noreply.github.com>
+Date:   Thu Feb 20 13:06:05 2020 +0100
+
+    Created using Colaboratory
+
+commit 71fc5386ff83c1076f63abfa2b78251cbfaf44d9
+Author: Machholm <55635518+Machholm@users.noreply.github.com>
+Date:   Thu Feb 20 12:58:42 2020 +0100
+
+    Add files via upload
+
+commit 832ec4e0c6d591b68ae4d5f28bce5b1ff3eb0f44
+Author: csom7 <csom@itu.dk>
+Date:   Thu Feb 20 12:43:29 2020 +0100
+
+    added a missing colon
+
+commit 4173f00aa54b523d63cc215a59fb9c8a4db92b91
+Author: csom7 <csom@itu.dk>
+Date:   Thu Feb 20 12:28:55 2020 +0100
+
+    made naming convention consistent
+
+commit ffe0282b842d4d7f10095120e5970c58a98b80b7
+Author: sarr-itu <60929572+sarr-itu@users.noreply.github.com>
+Date:   Wed Feb 19 22:40:35 2020 +0100
+
+    Add files via upload
+
+commit fa7e7a5e02bc3a219120ace36f2be816e5236925
+Author: Kasper Grønbek <47602813+kaspergroenbek98@users.noreply.github.com>
+Date:   Wed Feb 19 21:57:46 2020 +0100
+
+    Created word_features2 for bigrams
+
+    Word_features2 is the word features for bigrams.
+
+commit 835482f2ed0ff192a5502bbf44af835fbbe79ad2
+Author: Kasper Grønbek <47602813+kaspergroenbek98@users.noreply.github.com>
+Date:   Wed Feb 19 21:53:05 2020 +0100
+
+    word_features function has been  created
+
+    This function is already in the notebook, but can be drawn from here.
+
+commit 47fbb5ac97c70f5b8e581a2551beb2b9b42597ff
+Author: Kasper Grønbek <47602813+kaspergroenbek98@users.noreply.github.com>
+Date:   Wed Feb 19 21:47:50 2020 +0100
+
+    Made function for filtering
+
+    Function filters out stopwords, non-alphabetic words and stems of words from input data
+    - returns all words and frequency distribution.
+
+commit a7e6932cdbd19c77b31562df6f2e3cb64da4ee04
+Author: Kasper Grønbek <47602813+kaspergroenbek98@users.noreply.github.com>
+Date:   Wed Feb 19 21:39:13 2020 +0100
+
+    Changed to identify hashtag
+
+    A function that identifies hashtags from input data
+
+commit c2fe416340b163874a4379023b1eaffd7126ce94
+Author: csom7 <61190144+csom7@users.noreply.github.com>
+Date:   Wed Feb 19 20:45:18 2020 +0100
+
+    Added hashtags in new col 15
+
+commit f157c07c7a5c90a7f76fb0977f795440931b7a9d
+Author: Kasper Grønbek <kgro@itu.dk>
+Date:   Tue Feb 18 16:12:58 2020 +0100
+
+    Collaborative (whole team) effort to better the Notebook and implement ideas and explanatory comments
+
+commit 7f4fe36a3c71c5556f4b2f318d4dc3b16340acff
+Author: Kasper Grønbek <kgro@itu.dk>
+Date:   Tue Feb 18 15:23:30 2020 +0100
+
+    Updated the way 'stopwords' is addressed in the notebook
+
+commit da59b75a9c611dab6f88a61ffd7d49053302dd48
+Author: csom <csom@itu.dk>
+Date:   Tue Feb 18 15:14:55 2020 +0100
+
+    t
+
+commit 9b7314b691722fcc872f905139fe0ca633109fe6
+Merge: 4d477e7 90d212c
+Author: csom <csom@itu.dk>
+Date:   Tue Feb 18 15:07:20 2020 +0100
+
+    T
+
+commit 90d212cd8a5526b1cf5ec3b29e25b67b14ef49cd
+Author: Kasper Grønbek <47602813+kaspergroenbek98@users.noreply.github.com>
+Date:   Tue Feb 18 15:03:27 2020 +0100
+
+    Created fyplib - added one initial function
+
+    More updates to come
+
+commit 4d477e74c1b645f54f0ebec3d0e6fd69ef076e9e
+Author: csom <csom@itu.dk>
+Date:   Tue Feb 18 15:03:22 2020 +0100
+
+    allowed the book to access data.csv without manual labour
+
+commit 4c80c82592ddc416e08bee4114883bb784c5423f
+Author: Kasper Grønbek <47602813+kaspergroenbek98@users.noreply.github.com>
+Date:   Tue Feb 18 14:46:48 2020 +0100
+
+    Update README.md
+
+commit c90e6eedff43aaca2647b4c181b6fcf884eca8ea
+Author: csom <csom@itu.dk>
+Date:   Tue Feb 18 14:36:50 2020 +0100
+
+    added data file for new year resolutions
+
+commit 573b6ac33891c95e6c5d4fda091d1e2c1f63bed2
+Author: csom <csom@itu.dk>
+Date:   Tue Feb 18 14:31:23 2020 +0100
+
+    Added the first draft of our data analysis
+
+commit 1f22b578e73775db74bdbfa1296f914607e2d3e4
+Author: Kasper Grønbek <47602813+kaspergroenbek98@users.noreply.github.com>
+Date:   Tue Feb 18 14:22:39 2020 +0100
+
+    Initial commit
